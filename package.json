@@ -1,12 +1,12 @@
 {
   "name": "ilovemycity-ejs-refactored",
   "version": "1.0.0",
-  "description": "Refactored I Love My City Application using EJS ",
+  "description": "ilovemycity application is using EJS Template",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "edureka",
+  "author": "Raghuveer",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.3.4",
